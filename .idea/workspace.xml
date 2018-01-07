@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02fa9fa9-c372-48c5-b7e7-5b9d2168aa1e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="43" column="55" lean-forward="false" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+                <marker date="1509383750337" expanded="true" signature="581:957" ph="..." />
+                <marker date="1509383750337" expanded="true" signature="631:942" ph="..." />
+                <marker date="1509383750337" expanded="true" signature="725:923" ph="..." />
+                <marker date="1509383750337" expanded="true" signature="751:841" ph="..." />
+                <marker date="1509383750337" expanded="true" signature="1049:1302" ph="..." />
+                <marker date="1509383750337" expanded="true" signature="1067:1284" ph="..." />
+                <marker date="1509383750337" expanded="true" signature="1329:1388" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alltask-list.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dev/task/alltask/alltask-list.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <marker date="1509383121114" expanded="true" signature="278:381" ph="..." />
+                <marker date="1509383121114" expanded="true" signature="321:371" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todoapp.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/todoapp.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+                <marker date="1509383165602" expanded="true" signature="223:974" ph="{...}" />
+                <marker date="1509383165602" expanded="true" signature="965:966" ph="//..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dev/contacts/new-contact.component.ts" />
+        <option value="$PROJECT_DIR$/dev/app.component.ts" />
+        <option value="$PROJECT_DIR$/dev/firebase.service.ts" />
+        <option value="$PROJECT_DIR$/dev/todoapp.service.ts" />
+        <option value="$PROJECT_DIR$/dev/task/alltask/alltask-list.component.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AngularFireBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngularFireBase" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="AngularFireBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngularFireBase" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02fa9fa9-c372-48c5-b7e7-5b9d2168aa1e" name="Default" comment="" />
+      <created>1502810235105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502810235105</updated>
+      <workItem from="1502810239985" duration="1198000" />
+      <workItem from="1502811744589" duration="1992000" />
+      <workItem from="1502907887278" duration="1349000" />
+      <workItem from="1504795854128" duration="129000" />
+      <workItem from="1509379521740" duration="179000" />
+      <workItem from="1509382023550" duration="398000" />
+      <workItem from="1509383823354" duration="345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5590000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18667643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dev/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="43" column="55" lean-forward="false" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+            <marker date="1509383750337" expanded="true" signature="581:957" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="631:942" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="725:923" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="751:841" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1049:1302" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1067:1284" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1329:1388" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/todoapp.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1509383165602" expanded="true" signature="223:974" ph="{...}" />
+            <marker date="1509383165602" expanded="true" signature="965:966" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/task/alltask/alltask-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <marker date="1509383121114" expanded="true" signature="278:381" ph="..." />
+            <marker date="1509383121114" expanded="true" signature="321:371" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="43" column="55" lean-forward="false" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+            <marker date="1509383750337" expanded="true" signature="581:957" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="631:942" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="725:923" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="751:841" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1049:1302" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1067:1284" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1329:1388" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/todoapp.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1509383165602" expanded="true" signature="223:974" ph="{...}" />
+            <marker date="1509383165602" expanded="true" signature="965:966" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/task/alltask/alltask-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <marker date="1509383121114" expanded="true" signature="278:381" ph="..." />
+            <marker date="1509383121114" expanded="true" signature="321:371" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+            <marker date="1509383750337" expanded="true" signature="581:957" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="631:942" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="725:923" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="751:841" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1049:1302" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1067:1284" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1329:1388" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="38" column="79" lean-forward="false" selection-start-line="38" selection-start-column="71" selection-end-line="38" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+            <marker date="1509383750337" expanded="true" signature="581:957" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="631:942" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="725:923" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="751:841" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1049:1302" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1067:1284" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1329:1388" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/firebase.service.ts" />
+    <entry file="file://$PROJECT_DIR$/dev/contacts/new-contact.component.ts" />
+    <entry file="file://$PROJECT_DIR$/dev/contacts/contact.ts" />
+    <entry file="file://$PROJECT_DIR$/dev/contacts/new-contact.component.ts" />
+    <entry file="file://$PROJECT_DIR$/dev/firebase.service.ts" />
+    <entry file="file://$PROJECT_DIR$/dev/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="43" column="55" lean-forward="false" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+            <marker date="1509383750337" expanded="true" signature="581:957" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="631:942" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="725:923" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="751:841" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1049:1302" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1067:1284" ph="..." />
+            <marker date="1509383750337" expanded="true" signature="1329:1388" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/todoapp.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1509383165602" expanded="true" signature="223:974" ph="{...}" />
+            <marker date="1509383165602" expanded="true" signature="965:966" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/task/alltask/alltask-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <marker date="1509383121114" expanded="true" signature="278:381" ph="..." />
+            <marker date="1509383121114" expanded="true" signature="321:371" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

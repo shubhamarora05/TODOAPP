@@ -1,0 +1,1 @@
+export const serviceIP='http://localhost:8080';
